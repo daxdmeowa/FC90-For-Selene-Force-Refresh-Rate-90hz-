@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daxdmeowa/FC90-For-Selene-Force-Refresh-Rate-90hz/main/assets/banner.png" alt="FC90 Selene Banner">
+  <img src="https://raw.githubusercontent.com/daxdmeowa/FC90/main/assets/banner.png" alt="FC90 Selene Banner">
 </p>
 
 <h1 align="center">FC90 Selene</h1>
