@@ -1,0 +1,16 @@
+ro.surface_flinger.use_content_detection_for_refresh_rate=false
+ro.surface_flinger.set_idle_timer_ms=0
+
+persist.sys.display.refresh_rate=90
+persist.sys.display.max_refresh_rate=90
+persist.sys.display.min_refresh_rate=90
+persist.sys.miui_refresh_rate=90
+
+persist.vendor.dfps.enable=false
+persist.sys.smart_refresh.enable=false
+
+persist.vendor.thermal.disable=true
+persist.sys.thermal.disable=true
+persist.sys.thermal.enable=false
+persist.vendor.thermal.engine.disable=1
+persist.vendor.powerhal.thermal_control=false
