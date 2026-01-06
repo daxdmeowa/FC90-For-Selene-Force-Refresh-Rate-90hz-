@@ -132,6 +132,6 @@ Experimental Android performance modules.
 
 ---
 
-## ⭐ Support
+## ⭐ Star history
 
-If you like this project, consider giving it a ⭐ on GitHub.
+https://api.star-history.com/svg?repos=daxdmeowa/FC90SELENE&type=Date
