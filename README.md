@@ -132,6 +132,6 @@ Experimental Android performance modules.
 
 ---
 
-## ⭐ Star history
+## Star History
 
-## Star History![Star History Chart](https://api.star-history.com/svg?repos=daxdmeowa/FC90SELENE&type=date&legend=top-left)](https://www.star-history.com/#daxdmeowa/FC90SELENE&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=daxdmeowa/FC90SELENE&type=date&legend=top-left)](https://www.star-history.com/#daxdmeowa/FC90SELENE&type=date&legend=top-left)
